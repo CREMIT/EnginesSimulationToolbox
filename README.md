@@ -7,5 +7,5 @@ This repository contains the different MATLAB scripts developed by Professor Jes
 
 "Wiebe_Nusselt.m": Program to simulate the compression-combustion-expansion cycle in a piston. The program includes the Wiebe model for the combustion and a simplified Nusselt approach for the heat transfer process.
 
-https://cloud.githubusercontent.com/assets/1216547/20787623/341b3524-b7ad-11e6-98ee-3046933dedf3.png
+![pv](https://cloud.githubusercontent.com/assets/1216547/20787623/341b3524-b7ad-11e6-98ee-3046933dedf3.png)
 
