@@ -259,3 +259,10 @@ grid on
 set(gcf,'Color',[1 1 1]);
 legend('Wiebe', 'Wiebe + Nusselt');
 
+
+W_teor = P_teor .* [0 diff(V)]
+W_real = P_real .* [0 diff(V)]
+
+nu_teor = sum(W_teor) / delta_Q * 100
+nu_real = sum(W_real) / delta_Q * 100
+
